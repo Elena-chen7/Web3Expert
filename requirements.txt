@@ -1,0 +1,10 @@
+bs4
+openai
+chromadb
+transformers
+duckduckgo_search
+llama_index
+langchain
+langchain_openai
+langchain_text_splitters
+langchain_community
